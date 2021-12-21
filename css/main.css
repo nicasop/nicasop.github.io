@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 3px black;
+    height: 15rem;
+    font-family: 'Permanent Marker', cursive;
+    color: #ffffff;
+    background-color:#976874;
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+
+.subtitulo{
+    text-align: center;
+    color: #666666;
+    background-color: rgba(23, 232, 27, 0.5);
+    padding-top: 20px;
+    font-family: 'Abril Fatface', cursive;
+    padding-bottom: 5px;
+}
+
+.texto{
+    font-size: 2rem;
+    color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: justify;
+    background-color: #68978B;
+    font-family: 'Caveat', cursive;
+    font-size: 3rem;
+}
